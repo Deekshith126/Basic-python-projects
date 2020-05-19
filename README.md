@@ -4,14 +4,13 @@
 
 - The script is of very basic  receipt of printing program with variables, operators, and string manipulation
 - Below is the screenshot of the output
-- ![](C:\Users\deeks\Pictures\Saved Pictures\Capture1.PNG)
-
+- ![](Capture1.PNG)
 
 
 ### 2. Creating a Shopping Cart
 
 - This is an application that stores products within a list. We’ll be able to add, remove, clear, and show the products in the cart. 
-- Here is the logical design ![](C:\Users\deeks\Pictures\Saved Pictures\Capture2.PNG)
+- Here is the logical design ![](Capture2.PNG)
 
 
 
