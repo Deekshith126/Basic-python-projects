@@ -25,7 +25,7 @@
 
 - This script is all about how to use classes in Python to improve our  programs. 
 
-- Throughout the program, and you’ll be able to see how we are able to structure a full-fledged object-oriented game in Python.
+- Throughout the program you’ll be able to see how we are able to structure a full-fledged object-oriented game in Python.
 
 - Before going into the program, understanding basic rules of this game is necessary.
 
